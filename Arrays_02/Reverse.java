@@ -1,5 +1,4 @@
-package Arrays_02;
-import java.util.*;
+    import java.util.*;
 // https://www.geeksforgeeks.org/problems/reverse-an-array/1
 public class Reverse {
     public static void reverseArray(int arr[]) {

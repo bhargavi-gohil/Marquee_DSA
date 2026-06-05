@@ -6,6 +6,106 @@
     "configurations": [
         {
             "type": "java",
+            "name": "pushZerosToEnd",
+            "request": "launch",
+            "mainClass": "pushZerosToEnd",
+            "projectName": "DSA_a9e091f2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${fileBasenameNoExtension}",
+            "console": "integratedTerminal",
+            "projectName": "DSA_a9e091f2"
+        },
+        {
+            "type": "java",
+            "name": "missingNumber",
+            "request": "launch",
+            "mainClass": "missingNumber",
+            "console": "integratedTerminal",
+            "projectName": "DSA_a9e091f2"
+        },
+        {
+            "type": "java",
+            "name": "GTriplet",
+            "request": "launch",
+            "mainClass": "GTriplet",
+            "projectName": "DSA_a9e091f2"
+        },
+        {
+            "type": "java",
+            "name": "basicMath",
+            "request": "launch",
+            "mainClass": "Practice.basicMath",
+            "projectName": "DSA_a9e091f2"
+        },
+        {
+            "type": "java",
+            "name": "Solution",
+            "request": "launch",
+            "mainClass": "Practice.Solution",
+            "projectName": "DSA_a9e091f2"
+        },
+        {
+            "type": "java",
+            "name": "CheckDigits",
+            "request": "launch",
+            "mainClass": "CheckDigits",
+            "projectName": "DSA_a9e091f2"
+        },
+        {
+            "type": "java",
+            "name": "maxSubArray",
+            "request": "launch",
+            "mainClass": "Arrays_02.maxSubArray",
+            "projectName": "DSA_a9e091f2"
+        },
+        {
+            "type": "java",
+            "name": "numberOfSteps",
+            "request": "launch",
+            "mainClass": "numberOfSteps",
+            "projectName": "DSA_a9e091f2"
+        },
+        {
+            "type": "java",
+            "name": "Reverse",
+            "request": "launch",
+            "mainClass": "Arrays_02.Reverse",
+            "projectName": "DSA_a9e091f2"
+        },
+        {
+            "type": "java",
+            "name": "reverse",
+            "request": "launch",
+            "mainClass": "reverse",
+            "projectName": "DSA_a9e091f2"
+        },
+        {
+            "type": "java",
+            "name": "subtraction",
+            "request": "launch",
+            "mainClass": "subtraction",
+            "projectName": "DSA_a9e091f2"
+        },
+        {
+            "type": "java",
+            "name": "ArraySum",
+            "request": "launch",
+            "mainClass": "ArraySum",
+            "projectName": "DSA_a9e091f2"
+        },
+        {
+            "type": "java",
+            "name": "Reverse",
+            "request": "launch",
+            "mainClass": "Reverse",
+            "projectName": "DSA_a9e091f2"
+        },
+        {
+            "type": "java",
             "name": "substraction",
             "request": "launch",
             "mainClass": "substraction",
@@ -267,7 +367,8 @@
             "type": "java",
             "name": "Current File",
             "request": "launch",
-            "mainClass": "${file}"
+            "mainClass": "${fileBasenameNoExtension}",
+            "projectName": "DSA_a9e091f2"
         }
     ]
 }
