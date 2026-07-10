@@ -16,9 +16,9 @@ public class BubbleSort {
                     flag = true;
                 }
             }
-        }
-        if(flag == false) {
-            break;
+            if (!flag) {
+                break;
+            }
         }
     }
 

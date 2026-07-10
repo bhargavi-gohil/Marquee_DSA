@@ -1,4 +1,3 @@
-import java.util.*;
 public class missingNumber {
      public static int missingNumber(int[] nums, int n) {
         int sum = n * (n + 1) / 2;

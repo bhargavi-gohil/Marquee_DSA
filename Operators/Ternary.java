@@ -1,5 +1,3 @@
-package Operators;
-
 // import java.util.*;
 public class Ternary {
     public static void main(String[] args){
