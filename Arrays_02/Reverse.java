@@ -13,7 +13,7 @@ public class Reverse {
                 left++;
                 right--;
             }
-        }
+    }
     public static void main(String[] args) {
         int[] arr = {1,4,6,7,7,8,9};
         reverseArray(arr);
