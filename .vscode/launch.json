@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MultipleCalls",
+            "request": "launch",
+            "mainClass": "MultipleCalls",
+            "projectName": "DSA_a9e091f2"
+        },
+        {
+            "type": "java",
             "name": "bit",
             "request": "launch",
             "mainClass": "bit",
