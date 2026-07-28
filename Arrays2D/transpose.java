@@ -1,4 +1,4 @@
-package Arrays2D;
+// package Arrays2D;
 import java.util.Arrays;
 import java.util.Scanner;
 public class transpose {

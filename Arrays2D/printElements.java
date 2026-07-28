@@ -1,4 +1,4 @@
-package Arrays2D;
+// package Arrays2D;
 import java.util.*;
 public class printElements {
     public static void printElementsOfArray(int[][] arr,int n){

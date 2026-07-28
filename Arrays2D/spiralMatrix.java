@@ -1,4 +1,4 @@
-package Arrays2D;
+// package Arrays2D;
 // import java.util.*;
 public class spiralMatrix {
     public static void main(String[] args) {
