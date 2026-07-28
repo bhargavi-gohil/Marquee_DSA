@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "reverseRow",
+            "request": "launch",
+            "mainClass": "reverseRow",
+            "projectName": "DSA_a9e091f2"
+        },
+        {
+            "type": "java",
             "name": "GetSet",
             "request": "launch",
             "mainClass": "GetSet",
