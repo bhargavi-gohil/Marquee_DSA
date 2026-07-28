@@ -1,28 +1,52 @@
 public class GetSet {
-    String name;
-    int Class;
-    int avg;
-    String grade;
+     String name;
+     int Class;
+     int avg;
+     String grade;
 
-    // getter
-    void getValues() {
+    // getter methods
+    public String getName() {
+        return name;
+    }
+    public int getStudentClass() {
+        return Class;
+    }
+    public int getAvg() {
+        return avg;
+    }
+    public String getGrade() {
+        return grade;
+    }
+
+    // setter methods
+    public void setName(String name) {
+        this.name = name;
+    }
+    public void setStudentClass(int Class) {
+        this.Class = Class;
+    }
+    public void setAvg(int avg) {
+        this.avg = avg;
+    }
+    public void setGrade(String grade) {
+        this.grade = grade;
+    }
+
+    // print all values
+    public void printValues() {
         System.out.println("Name: " + name);
         System.out.println("Class: " + Class);
         System.out.println("Average: " + avg);
         System.out.println("Grade: " + grade);
     }
-    // setter
-    void setValues(String name, int Class, int avg, String grade) {
-        this.name = name;
-        this.Class = Class;
-        this.avg = avg;
-        this.grade = grade;
-    }
 
     public static void main(String[] args) {
         GetSet g = new GetSet();
-        g.setValues("bhargavi", 10, 23, "B");
-        g.getValues();
+        g.setName("Bhargavi");
+        g.setStudentClass(10);
+        g.setAvg(23);
+        g.setGrade("B");
 
+        g.printValues();
     }
 }
