@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "GetSet",
+            "request": "launch",
+            "mainClass": "GetSet",
+            "projectName": "DSA_a9e091f2"
+        },
+        {
+            "type": "java",
+            "name": "createClass",
+            "request": "launch",
+            "mainClass": "createClass",
+            "projectName": "DSA_a9e091f2"
+        },
+        {
+            "type": "java",
             "name": "reverseList",
             "request": "launch",
             "mainClass": "reverseList",
