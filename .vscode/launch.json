@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Lipstick",
+            "request": "launch",
+            "mainClass": "Lipstick",
+            "projectName": "DSA_a9e091f2"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "DSA_a9e091f2"
+        },
+        {
+            "type": "java",
             "name": "main",
             "request": "launch",
             "mainClass": "main",
