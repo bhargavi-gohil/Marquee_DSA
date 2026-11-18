@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "largest",
+            "request": "launch",
+            "mainClass": "largest",
+            "projectName": "DSA_a9e091f2"
+        },
+        {
+            "type": "java",
+            "name": "overHiding",
+            "request": "launch",
+            "mainClass": "overHiding",
+            "projectName": "DSA_a9e091f2"
+        },
+        {
+            "type": "java",
             "name": "polymorphism",
             "request": "launch",
             "mainClass": "polymorphism",
