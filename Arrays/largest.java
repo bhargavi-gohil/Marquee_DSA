@@ -1,5 +1,3 @@
-import java.util.*;
-
 // Largest Number in  array
 
 public  class largest {
