@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MaxSubarraySum",
+            "request": "launch",
+            "mainClass": "MaxSubarraySum",
+            "projectName": "DSA_a9e091f2"
+        },
+        {
+            "type": "java",
             "name": "SubArrays",
             "request": "launch",
             "mainClass": "SubArrays",
