@@ -10,7 +10,7 @@ public class MaxSubarraySum2 {
             prefix[i] = prefix[i-1] + arr[i];
         }
 
-        for(int i=0; i<arr.length; i++) {
+        for(int i=0 ; i<arr.length; i++) {
             int start = i;
             for(int j=i; j<arr.length; j++) {
                 int end = j;
